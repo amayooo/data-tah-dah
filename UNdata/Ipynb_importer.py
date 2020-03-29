@@ -1,3 +1,8 @@
+"""
+Importing Jupyter Notebooks as Modules
+Code Source: https://jupyter-notebook.readthedocs.io/en/latest/examples/Notebook/Importing%20Notebooks.html
+"""
+
 import io, os,sys,types
 from IPython import get_ipython
 from nbformat import read
